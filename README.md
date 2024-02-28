@@ -120,4 +120,6 @@ SECTION 12 LEGAL NOTICE
 
 (c) Support and/or requests should be made to the corresponding support department operated by BlazeHost.
 
+ SECTION 13 SERVICE REFUNDS
+ We will issue a full refund only if there's been an issue on our end that we couldn't fix.
  
